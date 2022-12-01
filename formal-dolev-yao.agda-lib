@@ -1,0 +1,5 @@
+name: formal-dolev-yao
+depend:
+  standard-library
+  formal-prelude
+include: .
